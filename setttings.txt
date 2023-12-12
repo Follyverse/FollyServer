@@ -1,0 +1,6 @@
+ip 10.0.0.11
+main-port 7777
+2nd-port 7778
+email molabfacvut@gmail.com
+email-password irxddjjxkhlkkkkg
+server-password 233nfdk&hrf43jr^%^^dkljw3herwejhr
